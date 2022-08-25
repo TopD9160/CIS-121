@@ -1,3 +1,6 @@
 # CIS-121
 
-### Zach was here
+# steps to follow
+# git add .
+# Git commit -m "message goes here"
+# git push origin
